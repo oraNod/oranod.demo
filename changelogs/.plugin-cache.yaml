@@ -1,0 +1,32 @@
+objects:
+  role: {}
+plugins:
+  become: {}
+  cache: {}
+  callback: {}
+  cliconf: {}
+  connection: {}
+  filter:
+    hello_world:
+      description: A custom filter plugin for Ansible.
+      name: hello_world
+      version_added: 1.0.0
+  httpapi: {}
+  inventory: {}
+  lookup:
+    hello_world:
+      description: A custom lookup plugin for Ansible.
+      name: hello_world
+      version_added: 1.0.0
+  module:
+    hello:
+      description: Module to create a greeting
+      name: hello
+      namespace: ''
+      version_added: 1.0.0
+  netconf: {}
+  shell: {}
+  strategy: {}
+  test: {}
+  vars: {}
+version: 0.1.0

@@ -1,0 +1,31 @@
+{
+ "collection_info": {
+  "namespace": "oranod",
+  "name": "demo",
+  "version": "0.1.0",
+  "authors": [
+   "your name <example@domain.com>"
+  ],
+  "readme": "README.md",
+  "tags": [
+   "linux",
+   "tools"
+  ],
+  "description": "your collection description",
+  "license": [],
+  "license_file": "LICENSE",
+  "dependencies": {},
+  "repository": "http://example.com/repository",
+  "documentation": "http://docs.example.com",
+  "homepage": "http://example.com",
+  "issues": "http://example.com/issue/tracker"
+ },
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "ftype": "file",
+  "chksum_type": "sha256",
+  "chksum_sha256": "d2c15a0de2de862bfb4f03a54b45c159ba7be04daefe968fffe907e0939844f7",
+  "format": 1
+ },
+ "format": 1
+}
