@@ -10,7 +10,7 @@ v0.1.0
 Release Summary
 ---------------
 
-This is the first release ever of andersson007.my_collection collection.
+This is the first release ever of the oranod.demo collection.
 
 Major Changes
 -------------
