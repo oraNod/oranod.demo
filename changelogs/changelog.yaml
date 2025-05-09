@@ -6,6 +6,6 @@ releases:
         - add ``hello.py`` and ``helper.py`` modules
       release_summary: This is the first release ever of the oranod.demo collection.
     fragments:
-    - 0.1.0.yml
-    - hello_module.yml
+      - 0.1.0.yml
+      - hello_module.yml
     release_date: '2025-05-09'
